@@ -1,0 +1,5 @@
+# Como executar um programa java pelo terminal linux
+Primeiro deve-se executar o comando javac + nomeArquivo.java
+Depois disso o terminal criara um nomeArquivo.class, para executa-lo basta digitar o comando
+java + nomeArquivo 
+O arquivo será executado pelo terminal
